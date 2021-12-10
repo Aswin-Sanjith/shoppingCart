@@ -1,4 +1,4 @@
 #ignore all temp files
 *.temp
-*.cfc
+
 test.temp
